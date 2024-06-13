@@ -55,10 +55,10 @@ const LeftBanner = () => {
                     </h2>
                     <div className="flex gap-4">
                         <span className='bannerIcon'>
-                            <FaReact />
+                            <SiNextdotjs />
                         </span>
                         <span className='bannerIcon'>
-                            <SiNextdotjs />
+                            <FaReact />
                         </span>
                         <span className='bannerIcon'>
                             <SiTailwindcss />
